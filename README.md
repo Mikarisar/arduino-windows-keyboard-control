@@ -9,4 +9,4 @@ So, what you gonna do:
   4. If needed - change buttons' names or something else in ArduinoCOMRemote.ino
   5. If your Arduino is connected to COM3 and you dont want to change my settings you may use COM_HID.exe
      Otherwise modify and compile COM_HID.cpp in Microsoft Visual Studio or other.
- More comments you may find in sources. Good luck:)
+More comments you may find in sources. Good luck:)
