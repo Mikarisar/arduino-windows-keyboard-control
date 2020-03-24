@@ -11,4 +11,5 @@ So, what you gonna do:
      Otherwise modify and compile COM_HID.cpp in Microsoft Visual Studio or other.
 
 More comments you may find in sources. Good luck!
- *I made this to control youtube lying on the bed:D
+ 
+*I made this to control youtube lying on the bed:D
